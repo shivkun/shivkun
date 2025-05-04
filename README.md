@@ -1,78 +1,51 @@
-## Greetings, hooman!  
-  
-<a href="https://github.com/shivkun" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/shivvkun" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+# 💫 About Me:
+<table width="100%" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="400" align="center" valign="center" style="padding: 12px;">
+      <a href="https://shivkun.link/" target="_blank">
+        <img src="https://4jvunv3uhj.ufs.sh/f/j3njteUqvFKuslHgomfPfDA2uapGNHVQZ4iKgvqMSBzletj8" alt="Shivkun Card" height="380"/>
+      </a>
+    </td>
+    <td valign="center" style="padding: 12px;">
+      <br><br>
+      🔭 I’m currently working on <a href="https://github.com/shivkun/botato"><b>Botato</b></a><br>
+      👯 I’m looking to collaborate on <b>Poor life decisions</b><br>
+      🤝 I’m looking for help with <b>How to make good coffee</b><br>
+      🌱 I’m currently learning <b>How to sleep more than 4 hours</b><br>
+      💬 Ask me about <b>Cats</b><br>
+      ⚡ Fun fact: There isn't any<br><br>
+      <b>🌐 Socials:</b><br><br>
+      <a href="https://twitch.tv/shivvkun"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
+      <a href="https://x.com/shivkun"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+      <a href="mailto:shiv@zerobytes.fr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+      <br><br>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-### 🐾 You’ve entered my territory  
-I sit.
-I watch.
-Sometimes I knock things off shelves.
-Mostly, I do as I please.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Oh... You’re here. That’s… acceptable.  
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shivkun&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=shivkun&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkun&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivkun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on [Botato](https://github.com/shivkun/botato), a Python Discord library with actual taste.
-
-- 🌱 I’m currently learning how not to overcomplicate simple things.
-
-- ❓ Ask me about anything related to bots, weird side projects, or yelling at APIs.
-
-- ⚡ Fun fact: I once spent 4 hours debugging a typo. Then took a nap like nothing happened.  
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd2Z2o5OXFlZW42Mnl1ZW44eDIxMGUzYjl2YjZxMGZ1aXRkb3IyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPO1vUwiydWqHvy/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-</div>  
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivkun&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkun&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-This many people visited my profile: 
-
-![Profile views counter](https://komarev.com/ghpvc/?username=shivkun&&style=flat-square)  
-
-### Show me some love  
-<div align="left">
-  <a href="https://shivkun.link/" target="_blank"><img src="https://4jvunv3uhj.ufs.sh/f/j3njteUqvFKuslHgomfPfDA2uapGNHVQZ4iKgvqMSBzletj8" alt="Shivkun Card" height="340"/></a>
-</div>
+---
+[![Enzo Bonolis profile views](https://u8views.com/api/v1/github/profiles/104458119/views/day-week-month-total-count.svg)](https://u8views.com/github/shivkun)
