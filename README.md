@@ -74,7 +74,5 @@ This many people visited my profile:
 
 ### Show me some love  
 <div align="left">
-  <a href="https://paypal.me/qlumin" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="left"/>
-  </a>
+  <a href="https://shivkun.link/" target="_blank"><img src="https://4jvunv3uhj.ufs.sh/f/j3njteUqvFKuslHgomfPfDA2uapGNHVQZ4iKgvqMSBzletj8" alt="Shivkun Card" height="340"/></a>
 </div>
